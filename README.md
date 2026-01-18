@@ -9,7 +9,7 @@ A low-cost ultrasonic proximity measurement system for automotive applications, 
 
 ## ✨ Features
 - **Real-time distance measurement** (10-200cm range)
-- **Visual & audio feedback** (LED indicators + buzzer)
+- **Visual feedback** (OLED Display)
 - **ESP32-based signal conditioning** and ADC interfacing
 - **Calibration system** for improved accuracy
 - **Low power consumption** design

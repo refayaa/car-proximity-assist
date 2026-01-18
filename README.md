@@ -1,6 +1,5 @@
 # 🚗 Ultrasonic Car Proximity Assist System
 
-![Project Banner](https://via.placeholder.com/800x300/9c8dff/ffffff?text=Car+Proximity+System)
 ![License](https://img.shields.io/badge/License-MIT-9c8dff)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-000000)
 ![Cost](https://img.shields.io/badge/Cost-%3C$50-brightgreen)
